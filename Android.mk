@@ -1,3 +1,3 @@
-11111111111111111111
+this is for test smartGit	
 
-new Branch Test is OK
+
